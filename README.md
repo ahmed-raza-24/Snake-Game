@@ -74,14 +74,13 @@ The grid is dynamically generated and fully responsive.
 screenshot here:
 
 1. Welcome Page:
-<img width="735" height="533" alt="Welcome" src="https://github.com/user-attachments/assets/1c721292-bd94-4f4a-9f15-693945ad15e8" />
+<img width="1915" height="906" alt="start-game" src="https://github.com/user-attachments/assets/e34e0c85-302e-4843-84a6-df6784bc3d6a" />
 
 2.Snake game display screen:
 <img width="1910" height="916" alt="snake game display" src="https://github.com/user-attachments/assets/6fffea92-2099-4923-b51b-c6f7e06563d0" />
 
 3.Game Over:
-<img width="638" height="349" alt="game over" src="https://github.com/user-attachments/assets/c9c23eef-4dd9-424c-8777-81ddaa0a5562" />
-
+<img width="1912" height="908" alt="game-over" src="https://github.com/user-attachments/assets/31c0027c-ae6c-42dd-875e-4b9f2fa795f8" />
 
 📥 How to Download & Run the Project
 Follow these simple steps to download and run the Snake Game on your computer:
